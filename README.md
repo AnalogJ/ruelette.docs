@@ -3,9 +3,9 @@ Ruelette Planning Docs
 
 # V1 Features
 - Location based Search
-  - Search Hotels
-  - Search Activities
-  - Search Food
+  - Search Hotels (AirBnB, TripAdvisor, Expedia)
+  - Search Activities (TripAdvisor)
+  - Search Food (Yelp, TripAdvisor)
   
 
 
